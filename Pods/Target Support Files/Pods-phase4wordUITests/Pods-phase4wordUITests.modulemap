@@ -1,0 +1,6 @@
+framework module Pods_phase4wordUITests {
+  umbrella header "Pods-phase4wordUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

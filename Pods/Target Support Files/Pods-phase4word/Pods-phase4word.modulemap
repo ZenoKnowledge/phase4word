@@ -1,0 +1,6 @@
+framework module Pods_phase4word {
+  umbrella header "Pods-phase4word-umbrella.h"
+
+  export *
+  module * { export * }
+}
